@@ -5,7 +5,7 @@ Tab Width on GitHub
 
 Inspired by [sindresorhus/tab-size-on-github](https://github.com/sindresorhus/tab-size-on-github) and pretty much same instead this one's for Apple Addicts.
 
-![](https://github.com/sindresorhus/tab-size-on-github/blob/master/screenshot.png)
+![](screenshot.png)
 
 ## Install
 
